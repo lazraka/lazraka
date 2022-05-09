@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am a recent graduate from the Samueli Engineering School at UCLA having completed a Master's degree in Computer Science. I am passionate about cancer research and have directed many of my endeavors towards contributing to this field, working as a Senior Research Technician at Memorial Sloan Kettering Cancer Center, developing a 6-compartment model to elucidate the behavior of the p53 tumor suppressor gene for my Master's thesis, and leading a boxing charity event to raise money for Cancer Immunology research. I strive to be at the intersection of medicine, engineering and technology to help bring us towards a future with a cure for cancer.
+I am a recent graduate of the UCLA Computer Science Master's program with a background in Chemical and Biomolecular Engineering. I am passionate about cancer research and have directed many of my endeavors towards contributing to this field, most notably working as a Senior Research Technician at Memorial Sloan Kettering Cancer Center and developing a computational model to elucidate the behavior of the p53 tumor suppressor gene for my Master's thesis. I strive to be at the intersection of technology, engineering and medicine to help bring us towards a future with a cure for cancer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
+- 🔭 I’m currently working on a platform to integrate multiple types of patient health information.
+- 🌱 I’m currently learning about the integration of technology in the human body.
+- 💬 Ask me about intermittent fasting, longevity and mixed martial arts.
+- 📫 How to reach me: linkedin, portfolio
 
 <!--
 **lazraka/lazraka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
