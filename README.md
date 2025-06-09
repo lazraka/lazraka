@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-I am a recent graduate of the UCLA Computer Science Master's program with a background in Chemical and Biomolecular Engineering. I am passionate about cancer research and have directed many of my endeavors towards contributing to this field, most notably working as a Senior Research Technician at Memorial Sloan Kettering Cancer Center and developing a computational model to elucidate the behavior of the p53 tumor suppressor gene for my Master's thesis. I strive to be at the intersection of technology, engineering and medicine to help bring us towards a future with a cure for cancer.
-
-- 🔭 I’m currently working on a platform to integrate multiple types of patient health information.
-- 🌱 I’m currently learning about the integration of technology in the human body.
-- 💬 Ask me about intermittent fasting, longevity and mixed martial arts.
-- 📫 How to reach me: linkedin, portfolio
+I am a software engineer and a data scientist with an MS in Computer Science and a background in Chemical and Biomolecular Engineering. I am passionate about cancer research and have directed many of my endeavors towards contributing to this field, most notably working as a Senior Research Technician at Memorial Sloan Kettering Cancer Center and developing a computational model to elucidate the behavior of the p53 tumor suppressor gene for my Master's thesis. I strive to be at the intersection of technology, engineering and medicine to help bring us towards a future with a cure for cancer.
 
 <!--
 **lazraka/lazraka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
